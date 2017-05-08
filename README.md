@@ -5,6 +5,37 @@ Welcome to Wanderley's Web Design Portfolio!
 
 Hi there! It is a pleasure to have your visit here in my **Porfolio**. Comments and freelance jobs are more than welcome. If you are interested please drop a message for juniormayhe [at] gmail.com. If you want a safer platform, you can hire me by visiting the [Freelancer site](https://www.freelancer.es/u/juniormayhe.html).
 
+
+## Illustrations
+
+Here you'll find some illustrations that I had created.
+
+#### :art: baby-shower-invitation
+![baby-shower-invitation](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/baby-shower-invitation.png)
+
+#### :art: donate-banner
+![donate-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/donate-banner.jpg)
+
+#### :art: facebook-page-banner
+![facebook-page-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/facebook-page-banner.jpg)
+
+#### :art: folder
+![folder](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/folder.jpg)
+
+#### :art: mug-with-beer-logo-for-a-colombian
+![mug-with-beer-logo-for-a-colombian](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/mug-with-beer-logo-for-a-colombian.png)
+
+#### :art: rightjob-banner
+![rightjob-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/rightjob-banner.png)
+
+#### :art: tourist-meets-a-colombian
+![tourist-meets-a-colombian](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.jpg)
+
+#### :art: wordpress-banner
+![wordpress-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg)
+
+---
+
 ## Logos
 
 Here you'll find some logos that I had created.
