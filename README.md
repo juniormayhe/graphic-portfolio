@@ -9,6 +9,36 @@ Hi there! It is a pleasure to have your visit here in my **Porfolio**. Comments 
 
 Here you'll find some mock-ups / prototypes of systems that I had developed.
 
+### Rightjob app
+
+Right Job is a mobile application that allows to search jobs from many countries in one place, in a practical and intuitive way. Core technologies used in this project are Android Studio, Android SDK, Java, XML.
+
+#### :art: righjob-main-menu
+![righjob-main-menu](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/righjob-main-menu.png)
+
+#### :art: rightjob-about-window
+![rightjob-about-window](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-about-window.png)
+
+#### :art: right-job-configure-preferences
+![right-job-configure-preferences](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences.png)
+
+#### :art: right-job-configure-preferences2
+![right-job-configure-preferences2](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences2.png)
+
+#### :art: right-job-configure-preferences-job-positions
+![right-job-configure-preferences-job-positions](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-job-positions.png)
+
+#### :art: right-job-configure-preferences-location
+![right-job-configure-preferences-location](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-location.png)
+
+#### :art: rightjob-job-offers-list
+![rightjob-job-offers-list](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-job-offers-list.png)
+
+#### :art: rightjob-see-later-jobs
+![rightjob-see-later-jobs](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-see-later-jobs.png)
+
+---
+
 ### Rodocred Portal
 
 The Rodocred Portal is a website that offers logistics solutions to shippers, carriers and truck drivers such as control of shipping, travel and cargo transportation tracking, documents screening, fleet supply control via POS (Point of Sale) and electronic toll purchase in accredited network available throughout Brazil. Main technologies used in this project are: .NET 4, WCF (Web services), C #, XML, Entity Framework, HTML, CSS, Team Foundation Server (TFS), Enterprise Architect, SQL Server, Point of Sale Verifone Nurit 8400 and VX540.
@@ -39,6 +69,7 @@ The Rodocred Portal is a website that offers logistics solutions to shippers, ca
 
 #### :art: rodocred-loss-of-fuel-report
 ![rodocred-loss-of-fuel-report](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-loss-of-fuel-report.png)
+
 
 
 ## License
