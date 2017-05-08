@@ -16,6 +16,30 @@ The Rodocred Portal is a website that offers logistics solutions to shippers, ca
 #### :art: details-of-fuel-handling
 ![details-of-fuel-handling](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-details-of-fuel-handling.png)
 
+#### :art: rodocred-fuel-supplies-report
+![rodocred-fuel-supplies-report](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-fuel-supplies-report.png)
+
+#### :art: rodocred-fuel-supply-dispute-request
+![rodocred-fuel-supply-dispute-request](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-fuel-supply-dispute-request.png)
+
+#### :art: rodocred-handling-of-fuels-in-tanks2
+![rodocred-handling-of-fuels-in-tanks2](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-handling-of-fuels-in-tanks2.png)
+
+#### :art: rodocred-private-fuel-station-settings
+![rodocred-private-fuel-station-settings](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-private-fuel-station-settings.png)
+
+#### :art: rodocred-fleet-fuel-supply-history
+![rodocred-fleet-fuel-supply-history](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-fleet-fuel-supply-history.png)
+
+#### :art: rodocred-fuel-supply-dispute-list
+![rodocred-fuel-supply-dispute-list](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-fuel-supply-dispute-list.png)
+
+#### :art: rodocred-handling-of-fuels-in-tanks
+![rodocred-handling-of-fuels-in-tanks](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-handling-of-fuels-in-tanks.png)
+
+#### :art: rodocred-loss-of-fuel-report
+![rodocred-loss-of-fuel-report](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-loss-of-fuel-report.png)
+
 
 ## License
 
