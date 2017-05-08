@@ -70,6 +70,36 @@ The Rodocred Portal is a website that offers logistics solutions to shippers, ca
 #### :art: rodocred-loss-of-fuel-report
 ![rodocred-loss-of-fuel-report](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rodocred/rodocred-loss-of-fuel-report.png)
 
+---
+
+### Food and Beverage
+
+The goal of this project was to allow BigBola Casinos to replace the legacy Food and Beverage software with a new one, as the renewal contract was too expensive and the old version could not meet the new requirements. A new version was developed and deployed in 12 cities in Mexico, in all restaurants, offering modules for each user role, such as restaurant manager, warehouse manager, chef, waiters and cashier. The software also provides tracking of cash and invoice printing for customers based on their consumption. The technologies used were Blend, XAML, WPF, C #, NET 3.5, WCF, SQL Server.
+
+
+#### :art: bigbola-food-and-beverage-home-window
+![bigbola-food-and-beverage-home-window](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-home-window.png)
+
+#### :art: bigbola-food-and-beverage-login
+![bigbola-food-and-beverage-login](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-login.png)
+
+#### :art: bigbola-food-and-beverage-tables-map
+![bigbola-food-and-beverage-tables-map](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-tables-map.png)
+
+#### :art: bigbola-food-and-beverage-choose-items-for-order
+![bigbola-food-and-beverage-choose-items-for-order](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-choose-items-for-order.png)
+
+#### :art: bigbola-food-and-beverage-register-order
+![bigbola-food-and-beverage-register-order](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-register-order.png)
+
+#### :art: bigbola-food-and-beverage-transfer-tables-between-waiters
+![bigbola-food-and-beverage-register-order](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-transfer-tables-between-waiters.png)
+
+#### :art: bigbola-food-and-beverage-chefs-view
+![bigbola-food-and-beverage-chefs-view](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-food-and-beverage-chefs-view.png)
+
+#### :art: bigbola-virtual-bingo
+![bigbola-virtual-bingo](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/food-and-beverage/bigbola-virtual-bingo.png)
 
 
 ## License
