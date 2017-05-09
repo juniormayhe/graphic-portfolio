@@ -5,6 +5,46 @@ Welcome to Wanderley's Web Design Portfolio!
 
 Hi there! It is a pleasure to have your visit here in my **Porfolio**. Comments and freelance jobs are more than welcome. If you are interested please drop a message for juniormayhe [at] gmail.com. If you want a safer platform, you can hire me by visiting the [Freelancer site](https://www.freelancer.es/u/juniormayhe.html).
 
+## Icons
+
+Hereunder are some icons created in Photoshop
+
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/accept.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/banks.png) |
+| :---: | :---: |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/barman.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/bingo-cash-register.png)  |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cancel.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cancellation-reasons.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cashiers.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cash-registers.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/categories.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/change-seats.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/check-cash-register.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/close-cash-register.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/currencies.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/dishes.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/employees.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/entry-into-stock.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/extras.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_error.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_laucher.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ico-ayb.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ico-signature.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/inventory.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/invoices.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/losses.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/mac-address.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/managers.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/measures.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/menu.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/mysterious.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/no.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/open-cash-register.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/options.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/order-from-bar-seat.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/order-meal.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/orders.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/outputs.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/password.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/payment.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/preparation-times.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/product-loss.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/products.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/recipes.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/regions.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/release-table.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/reports.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/rooms.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/security.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/send.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/settings.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/sites.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/souvenirs.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/storekeepers.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/subcategories.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/suppliers.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/tables.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/taxes.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-barmen.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-dishes.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-waiters.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/types.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/waiters.png)  | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/work-shift.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/yes.png)  |  |
+  
+
+--
 
 ## Illustrations
 
