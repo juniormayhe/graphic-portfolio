@@ -63,31 +63,12 @@ Here you'll find some mock-ups / prototypes of systems that I had developed.
 
 Right Job is a mobile application that allows to search jobs from many countries in one place, in a practical and intuitive way. Core technologies used in this project are Android Studio, Android SDK, Java, XML.
 
-#### :art: righjob-main-menu
-![righjob-main-menu](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/righjob-main-menu.png)
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/righjob-main-menu.png) | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-about-window.png) |
+| :---: | :---: |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences.png) | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences2.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-job-positions.png) | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-location.png) |
+| ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-job-offers-list.png) | ![](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-see-later-jobs.png) |
 
-#### :art: rightjob-about-window
-![rightjob-about-window](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-about-window.png)
-
-#### :art: right-job-configure-preferences
-![right-job-configure-preferences](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences.png)
-
-#### :art: right-job-configure-preferences2
-![right-job-configure-preferences2](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences2.png)
-
-#### :art: right-job-configure-preferences-job-positions
-![right-job-configure-preferences-job-positions](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-job-positions.png)
-
-#### :art: right-job-configure-preferences-location
-![right-job-configure-preferences-location](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/right-job-configure-preferences-location.png)
-
-#### :art: rightjob-job-offers-list
-![rightjob-job-offers-list](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-job-offers-list.png)
-
-#### :art: rightjob-see-later-jobs
-![rightjob-see-later-jobs](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/rightjob/rightjob-see-later-jobs.png)
-
----
 
 ### Rodocred Portal
 
