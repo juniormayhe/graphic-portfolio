@@ -27,7 +27,7 @@ Hereunder are some icons created in Photoshop
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-barmen.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-dishes.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/transfer-waiters.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/types.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/waiters.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/work-shift.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/yes.png" width="100"/>  |
 
---
+
 
 ## Illustrations
 
@@ -40,49 +40,20 @@ Here you'll find some illustrations that I had created.
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg" width="400"> |
 
 
----
 
 ## Logos
 
 Here you'll find some logos that I had created.
 
-#### :art: brasao
-![brasao](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/brasao.jpg)
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/brasao.jpg" width="400"> |  <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/itunes-podcast.jpg" width="400"> |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/juniorm-logo512x512.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/logo-ayb.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/logo-wanderley.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/medallo-grande.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/megaprestamos-512x512.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/ordem.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT1.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT2.jpg" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT3.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT4.jpg" width="400"> |
 
-#### :art: itunes-podcast
-![itunes-podcast](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/itunes-podcast.jpg)
 
-#### :art: juniorm-logo512x512
-![juniorm-logo512x512](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/juniorm-logo512x512.png)
-
-#### :art: logo-ayb
-![logo-ayb](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/logo-ayb.png)
-
-#### :art: logo-wanderley
-![logo-wanderley](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/logo-wanderley.png)
-
-#### :art: medallo-grande
-![medallo-grande](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/medallo-grande.png)
-
-#### :art: megaprestamos-512x512
-![megaprestamos-512x512](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/megaprestamos-512x512.jpg)
-
-#### :art: ordem
-![ordem](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/ordem.png)
-
-#### :art: PROCONT1
-![PROCONT1](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT1.jpg)
-
-#### :art: PROCONT2
-![PROCONT2](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT2.jpg)
-
-#### :art: PROCONT3
-![PROCONT3](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT3.jpg)
-
-#### :art: PROCONT4
-![PROCONT4](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/logos/PROCONT4.jpg)
-
----
 
 ## Mockups 
 
