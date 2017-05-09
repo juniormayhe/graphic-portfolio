@@ -14,7 +14,7 @@ Hereunder are some icons created in Photoshop
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cancel.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cancellation-reasons.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cashiers.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/cash-registers.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/categories.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/change-seats.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/check-cash-register.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/close-cash-register.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/currencies.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/dishes.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/employees.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/entry-into-stock.png" width="100"/>
-| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/extras.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_error.png" width="100"/> | | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_laucher.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ico-ayb.png" width="100"/>
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/extras.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_error.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ic_laucher.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ico-ayb.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/ico-signature.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/inventory.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/invoices.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/losses.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/mac-address.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/managers.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/measures.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/menu.png" width="100"/>
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/mysterious.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/no.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/open-cash-register.png" width="100"/> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/icons/options.png" width="100"/>
@@ -33,29 +33,12 @@ Hereunder are some icons created in Photoshop
 
 Here you'll find some illustrations that I had created.
 
-#### :art: baby-shower-invitation
-![baby-shower-invitation](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/baby-shower-invitation.png)
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/baby-shower-invitation.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/donate-banner.jpg" width="400"> |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/facebook-page-banner.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/folder.jpg" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/mug-with-beer-logo-for-a-colombian.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/rightjob-banner.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg" width="400"> |
 
-#### :art: donate-banner
-![donate-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/donate-banner.jpg)
-
-#### :art: facebook-page-banner
-![facebook-page-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/facebook-page-banner.jpg)
-
-#### :art: folder
-![folder](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/folder.jpg)
-
-#### :art: mug-with-beer-logo-for-a-colombian
-![mug-with-beer-logo-for-a-colombian](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/mug-with-beer-logo-for-a-colombian.png)
-
-#### :art: rightjob-banner
-![rightjob-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/rightjob-banner.png)
-
-#### :art: tourist-meets-a-colombian
-![tourist-meets-a-colombian](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.jpg)
-
-#### :art: wordpress-banner
-![wordpress-banner](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg)
 
 ---
 
