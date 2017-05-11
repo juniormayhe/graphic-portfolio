@@ -135,7 +135,7 @@ The goal of this project was to allow BigBola Casinos to replace the legacy Food
 
 ### Exame reviewer
 
-MVC 5 concept application where is being used Microsoft Practices Unity, Microsoft Extensions Logging, Security, Image generation, XPagedList, among others.
+MVC 5 concept application where is being used Microsoft Practices Unity, Microsoft Extensions Logging, Security, Entity Framework, Exams Image generation, XPagedList pagination, among others.
 
 #### :art: login
 ![login](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/exam-reviewer/login.png)
