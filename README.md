@@ -37,8 +37,10 @@ Here you'll find some illustrations that I had created.
 | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/facebook-page-banner.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/folder.jpg" width="400"> |
 | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/mug-with-beer-logo-for-a-colombian.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/rightjob-banner.png" width="400"> |
-| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.jpg" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg" width="400"> |
-
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/tourist-meets-a-colombian.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/wordpress-banner.jpg" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/little-witch.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/superboy.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/samurai.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/birds-party.png" width="400"> |
+| <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/monteiro-lobato-writer.png" width="400"> | <img src="https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/illustrations/portrait.png" width="400"> |
 
 
 ## Logos
