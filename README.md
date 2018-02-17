@@ -169,6 +169,18 @@ MVC 5 concept application where is being used Microsoft Practices Unity, Microso
 #### :art: invalid-request
 ![invalid-request](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/exam-reviewer/invalid-request.png)
 
+---
+
+### Taxi self service desk
+
+MVC 5 application for showing statuses of taxi requests.
+
+#### :art: pending taxi requests
+![login](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/taxired/2018-02-17_16h41_08.png)
+
+#### :art: confirmed, cancelled requests and unavailable taxis
+![list-of-questions](https://raw.githubusercontent.com/juniormayhe/graphic-portfolio/master/mockups/taxired/2018-02-17_16h41_32.png)
+
 
 ## License
 
