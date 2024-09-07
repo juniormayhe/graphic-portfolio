@@ -3,7 +3,7 @@ Welcome to Wanderley's Web Design Portfolio!
 
 ![Welcome to Wanderley's Web Design Portfolio 🎨](welcome-to-portfolio.png)
 
-Hi there! It is a pleasure to have your visit here in my **Porfolio**. Comments and freelance jobs are more than welcome. If you are interested please drop a message for juniormayhe [at] gmail.com. If you want a safer platform, you can hire me by visiting the [Freelancer site](https://www.freelancer.es/u/juniormayhe.html).
+Hi there! It is a pleasure to have your visit here in my **Porfolio**. Comments and freelance jobs are more than welcome. If you are interested please drop a message at https://juniormayhe.com/contact. If you want a safer platform, you can hire me by visiting the [Freelancer site](https://www.freelancer.es/u/juniormayhe.html).
 
 ## Icons
 
